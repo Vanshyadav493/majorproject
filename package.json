@@ -1,6 +1,6 @@
 {
   "engines": {
-  "node": "20.17.0"
+    "node": "20.17.0"
   },
   "name": "majorproject",
   "version": "1.0.0",
@@ -19,6 +19,7 @@
     "dotenv": "^17.2.3",
     "ejs": "^3.1.10",
     "ejs-mate": "^4.0.0",
+    "express": "^5.2.1",
     "express-session": "^1.18.2",
     "joi": "^18.0.1",
     "method-override": "^3.0.0",
